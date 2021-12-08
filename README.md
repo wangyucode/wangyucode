@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🌐 Welcome to my website: <https://wycode.cn>
 
-![Wangyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyucode&count_private=true&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyucode&layout=compact&langs_count=8&theme=dracula)
+| ![Wangyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyucode&count_private=true&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyucode&layout=compact&langs_count=8&theme=dracula) |
+|----|----|
